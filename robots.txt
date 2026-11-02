@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alpha-noyan.github.io/ahmarix-labs/sitemap.xml
